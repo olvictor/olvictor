@@ -13,6 +13,7 @@ Entre em contato :
 
 <br>
 <br>
+
 ![Olvictor's GitHub stats](https://github-readme-stats.vercel.app/api?username=olvictor&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvictor)](https://github.com/anuraghazra/github-readme-stats)
