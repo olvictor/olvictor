@@ -1,13 +1,16 @@
 ### Olá eu sou o Victor Oliveira 👋
 
-##Sobre mim 💬
+## Sobre mim 💬
 
 Tenho 28 anos, sou apaixonado por tecnologia e games, sou desenvolvedor Full stack e quanto mais aprendo e solucuino BUGs, tenho a certeza de que estou na área certa.
 
 
 Entre em contato :
 <br>
+<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oliveira-8320b5278/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/victor-oliveira-8320b5278/)
+
 <br>
 <br>
 ![Olvictor's GitHub stats](https://github-readme-stats.vercel.app/api?username=olvictor&show_icons=true&theme=radical)
