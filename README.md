@@ -2,7 +2,8 @@
 
 ## Sobre mim 💬
 
-Tenho 28 anos, sou apaixonado por tecnologia e games, sou desenvolvedor Full stack e quanto mais aprendo e solucuino BUGs, tenho a certeza de que estou na área certa.
+Tenho 28 anos, sou apaixonado por tecnologia e games, sou **desenvolvedor Full stack** e quanto mais aprendo e solucuino BUGs, tenho a certeza de que estou na área certa. Atualmente estou cursando Desenvolvimento de Software com foco em backend na 
+[@cuboscademy](https://cubos.academy/)
 
 
 Entre em contato :
