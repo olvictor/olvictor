@@ -34,8 +34,6 @@ Entre em contato :
 
 <img aling="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
 
-<img aling="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typeScript"/>
-
 <img aling="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
 
 <img aling="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreeSQL"/>
@@ -47,6 +45,8 @@ Entre em contato :
 ### Tecnologias que estou dando prioridade nos estudos
 
 <div stlye="display: inline_block"><br> 
+  
+<img aling="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typeScript"/>
 
 <img aling="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/>
 
