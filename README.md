@@ -55,6 +55,6 @@ Entre em contato :
 <img aling="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreeSQL"/>
 
 </div>
+<br>
 
-
-<img src="https://profile-counter.glitch-me/olvictor/count.svg" /> 
+<p align="center"> <img align="center" src="https://profile-counter.glitch-me/olvictor/count.svg" /> </p>
