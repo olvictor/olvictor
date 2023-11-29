@@ -57,4 +57,4 @@ Entre em contato :
 </div>
 <br>
 
-<p align="center"> <img align="center" src="https://profile-counter.glitch-me/olvictor/count.svg" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/{olvictor}/count.svg)
